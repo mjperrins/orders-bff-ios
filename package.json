@@ -11,7 +11,7 @@
     "debug": "node --nolazy --debug-brk=5858 server.js"
   },
   "dependencies": {
-    "appmetrics-dash": "next",
+    "appmetrics-dash": "3.3.0",
     "cfenv": "^1.0.3",
     "express": "^4.14.0",
     "express-session": "^1.15.0",
